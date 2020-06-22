@@ -14,7 +14,7 @@
         <tr>
             <th>Jackson</th>
             <th>Teste2</th>
-            <th>Age</th>
+            <th>Outro</th>
         </tr>
         <tr>
             <td>Teste</td>
