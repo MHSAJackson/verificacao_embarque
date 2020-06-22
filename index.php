@@ -19,12 +19,12 @@
         <tr>
             <td>Teste</td>
             <td>Aqui</td>
-            <td>50</td>
+            <td>Ok</td>
         </tr>
         <tr>
             <td>Eve</td>
             <td>Jackson</td>
-            <td>94</td>
+            <td>99</td>
         </tr>
     </table>
 
