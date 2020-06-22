@@ -13,12 +13,12 @@
     <table style="width:100%">
         <tr>
             <th>Jackson</th>
-            <th>Lastname</th>
+            <th>Teste2</th>
             <th>Age</th>
         </tr>
         <tr>
             <td>Teste</td>
-            <td>Smith</td>
+            <td>Aqui</td>
             <td>50</td>
         </tr>
         <tr>
